@@ -1,0 +1,3 @@
+C:/Users/Amila Huzbasic/CLionProjects/Bolnica/cmake-build-debug/CMakeFiles/Bolnica.dir
+C:/Users/Amila Huzbasic/CLionProjects/Bolnica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Amila Huzbasic/CLionProjects/Bolnica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
